@@ -16,7 +16,7 @@
 
 I design and implement **institutional-grade financial execution systems** from first principles — systems where microsecond SLAs, deterministic risk controls, and zero-trust security boundaries are non-negotiable.
 
-My flagship project is **MEHD AI**: a hybrid multi-agent quantitative trading platform that fuses an **11-agent AI consensus swarm** with a **sub-microsecond Rust/C++ execution kernel** — connected by a real-time Flutter terminal and a TypeScript SDK.
+My core focus: **hybrid multi-agent quantitative infrastructure** — fusing an **11-agent AI consensus swarm** with a **sub-microsecond Rust/C++ execution kernel** connected by a real-time operator cockpit and a TypeScript SDK. A closed-beta institutional platform is in active development.
 
 > The philosophy: LLMs analyse. Code executes. Never the other way around.
 
