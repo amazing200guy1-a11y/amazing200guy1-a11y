@@ -2,6 +2,7 @@
 ### Senior Backend & AI Systems Engineer · Quantitative Infrastructure & Concurrency
 
 [![Live Showcase](https://img.shields.io/badge/Live_Workstation-Sovereign_Cockpit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sovereign-cockpit-ui.vercel.app)
+[![Live API](https://img.shields.io/badge/Live_API-Synapse_Swagger_Docs-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://synapse-orchestrator.onrender.com/docs)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Usman_Bamidele-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/usman-bamidele)
 [![GitHub](https://img.shields.io/badge/GitHub-amazing200guy1--a11y-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amazing200guy1-a11y)
 [![Email](https://img.shields.io/badge/Email-Contact_Direct-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usmanbamidele200@gmail.com)
@@ -59,7 +60,7 @@ I architect and implement **institutional-grade quantitative execution engines a
 | Subsystem | Core Responsibilities | Technology Stack | Status / Proof |
 |---|---|---|---|
 | **[Sovereign-Cockpit-UI](https://github.com/amazing200guy1-a11y/Sovereign-Cockpit-UI)** | High-density telemetry dashboard, stage profiler, interactive signal propagator | Next.js 14 · React 18 · TypeScript · CSS | **[🚀 Live Workstation](https://sovereign-cockpit-ui.vercel.app)** |
-| **[Synapse-Orchestrator](https://github.com/amazing200guy1-a11y/Synapse-Orchestrator)** | Concurrent 11-agent consensus orchestrator with weighted supermajority gate | Python 3.11 · FastAPI · AsyncIO · Redis | **15/15 Green Tests · OpenAPI `/docs`** |
+| **[Synapse-Orchestrator](https://github.com/amazing200guy1-a11y/Synapse-Orchestrator)** | Concurrent 11-agent consensus orchestrator with weighted supermajority gate | Python 3.11 · FastAPI · AsyncIO · Redis | **[⚡ Live Swagger API](https://synapse-orchestrator.onrender.com/docs)** · 15/15 Tests |
 | **[Quantum-Execution-Engine](https://github.com/amazing200guy1-a11y/Quantum-Execution-Engine)** | Low-latency pre-trade risk governor with hardware-floor capital constraints | C++20 SIMD · Rust 2021 · Java 17 | **`< 180 ns` Kernel Budget · Zero-Alloc** |
 | **[OracleGuard-Core](https://github.com/amazing200guy1-a11y/OracleGuard-Core)** | Multi-venue statistical anomaly detection & L2 spread divergence filter | Python · NumPy · Tukey IQR · Hampel | **Deterministic Price Verification** |
 | **[DataPulse-Ingest-Engine](https://github.com/amazing200guy1-a11y/DataPulse-Ingest-Engine)** | High-throughput asynchronous market tick ingestion and normalization pipeline | Python · AsyncIO · Kafka · Apache Arrow | **Sub-Microsecond Parser** |
